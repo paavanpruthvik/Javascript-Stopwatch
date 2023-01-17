@@ -1,2 +1,2 @@
-# Javascript-HTML-CSS-Stopwatch
+# Javascript-HTML-CSS: Stopwatch
 
