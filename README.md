@@ -1,2 +1,2 @@
-# Javascript-HTML-CSS: Stopwatch
+# HTML-CSS-Javascript: Stopwatch
 <img src="/images.jpg">
